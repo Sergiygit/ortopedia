@@ -1,0 +1,1004 @@
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\variteks.kz\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-1.0.min.css
+File Name: C:\Downloaded Web Sites\variteks.kz\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-catalog-1.1.min.css
+File Name: C:\Downloaded Web Sites\variteks.kz\css\tilda-catalog-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\variteks.kz\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\variteks.kz\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\variteks.kz\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\variteks.kz\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\variteks.kz\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\variteks.kz\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\variteks.kz\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-1.0.min.js
+File Name: C:\Downloaded Web Sites\variteks.kz\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-ext-1.0.min.js
+File Name: C:\Downloaded Web Sites\variteks.kz\js\tilda-animation-ext-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-catalog-1.1.min.js
+File Name: C:\Downloaded Web Sites\variteks.kz\js\tilda-catalog-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\variteks.kz\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\variteks.kz\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-products-1.0.min.js
+File Name: C:\Downloaded Web Sites\variteks.kz\js\tilda-products-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\variteks.kz\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\variteks.kz\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\variteks.kz\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3030-3135-4239-a532-316664363735/-/empty/560_SGP8575_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3030-3135-4239-a532-316664363735\-\empty\560_SGP8575_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3030-3135-4239-a532-316664363735/-/resizeb/20x/560_SGP8575_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3030-3135-4239-a532-316664363735\-\resizeb\20x\560_SGP8575_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3030-3164-4633-b337-386132393037/-/empty/307.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3030-3164-4633-b337-386132393037\-\empty\307.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3030-3164-4633-b337-386132393037/-/resizeb/20x/307.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3030-3164-4633-b337-386132393037\-\resizeb\20x\307.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3031-6566-4139-b832-643531346162/-/empty/547.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3031-6566-4139-b832-643531346162\-\empty\547.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3031-6566-4139-b832-643531346162/-/resizeb/20x/547.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3031-6566-4139-b832-643531346162\-\resizeb\20x\547.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3034-6666-4435-b763-306139326365/-/empty/203.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3034-6666-4435-b763-306139326365\-\empty\203.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3034-6666-4435-b763-306139326365/-/resizeb/20x/203.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3034-6666-4435-b763-306139326365\-\resizeb\20x\203.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3036-3137-4261-b866-636530356230/-/empty/723.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3036-3137-4261-b866-636530356230\-\empty\723.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3036-3137-4261-b866-636530356230/-/resizeb/20x/723.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3036-3137-4261-b866-636530356230\-\resizeb\20x\723.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3036-6436-4061-a262-306430663331/-/empty/139.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3036-6436-4061-a262-306430663331\-\empty\139.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3036-6436-4061-a262-306430663331/-/resizeb/20x/139.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3036-6436-4061-a262-306430663331\-\resizeb\20x\139.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3039-6139-4435-a432-633830356332/-/empty/511_SGP3480.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3039-6139-4435-a432-633830356332\-\empty\511_SGP3480.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3039-6139-4435-a432-633830356332/-/resizeb/20x/511_SGP3480.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3039-6139-4435-a432-633830356332\-\resizeb\20x\511_SGP3480.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3065-3561-4339-b837-653562353336/-/empty/photo.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3065-3561-4339-b837-653562353336\-\empty\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3065-6465-4632-b564-646263306665/-/empty/911.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3065-6465-4632-b564-646263306665\-\empty\911.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3065-6465-4632-b564-646263306665/-/resizeb/20x/911.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3065-6465-4632-b564-646263306665\-\resizeb\20x\911.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3131-3534-4865-b932-333735626537/-/empty/659_679_SGP2418.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3131-3534-4865-b932-333735626537\-\empty\659_679_SGP2418.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3131-3534-4865-b932-333735626537/-/resizeb/20x/659_679_SGP2418.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3131-3534-4865-b932-333735626537\-\resizeb\20x\659_679_SGP2418.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3133-3064-4232-b835-653236323565/-/empty/660_680_SGP2411.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3133-3064-4232-b835-653236323565\-\empty\660_680_SGP2411.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3133-3064-4232-b835-653236323565/-/resizeb/20x/660_680_SGP2411.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3133-3064-4232-b835-653236323565\-\resizeb\20x\660_680_SGP2411.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3134-3830-4330-a661-343461386266/-/empty/544.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3134-3830-4330-a661-343461386266\-\empty\544.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3134-3830-4330-a661-343461386266/-/resizeb/20x/544.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3134-3830-4330-a661-343461386266\-\resizeb\20x\544.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3135-3461-4636-a165-626331633033/-/empty/305.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3135-3461-4636-a165-626331633033\-\empty\305.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3135-3461-4636-a165-626331633033/-/resizeb/20x/305.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3135-3461-4636-a165-626331633033\-\resizeb\20x\305.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3137-6238-4630-b564-343931636561/-/empty/453.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3137-6238-4630-b564-343931636561\-\empty\453.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3137-6238-4630-b564-343931636561/-/resizeb/20x/453.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3137-6238-4630-b564-343931636561\-\resizeb\20x\453.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3139-3562-4338-a464-623035343664/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3139-3562-4338-a464-623035343664\-\empty\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3163-3432-4361-b264-633935346463/-/empty/725.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3163-3432-4361-b264-633935346463\-\empty\725.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3163-3432-4361-b264-633935346463/-/resizeb/20x/725.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3163-3432-4361-b264-633935346463\-\resizeb\20x\725.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3163-6234-4561-b832-643437356439/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3163-6234-4561-b832-643437356439\-\empty\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3164-3936-4531-b739-383432623632/-/empty/904.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3164-3936-4531-b739-383432623632\-\empty\904.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3164-3936-4531-b739-383432623632/-/resizeb/20x/904.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3164-3936-4531-b739-383432623632\-\resizeb\20x\904.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3230-3162-4631-b565-613266383638/-/empty/336_SGP3785_3.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3230-3162-4631-b565-613266383638\-\empty\336_SGP3785_3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3230-3162-4631-b565-613266383638/-/resizeb/20x/336_SGP3785_3.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3230-3162-4631-b565-613266383638\-\resizeb\20x\336_SGP3785_3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3233-3738-4164-b933-306338623334/-/empty/____.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3233-3738-4164-b933-306338623334\-\empty\____.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3237-3265-4230-b534-353533393462/-/empty/118.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3237-3265-4230-b534-353533393462\-\empty\118.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3237-3265-4230-b534-353533393462/-/resizeb/20x/118.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3237-3265-4230-b534-353533393462\-\resizeb\20x\118.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3237-3538-4130-a561-646432653764/-/empty/306.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3237-3538-4130-a561-646432653764\-\empty\306.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3237-3538-4130-a561-646432653764/-/resizeb/20x/306.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3237-3538-4130-a561-646432653764\-\resizeb\20x\306.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3263-3561-4134-a131-663466386165/-/empty/652_SGP2362_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3263-3561-4134-a131-663466386165\-\empty\652_SGP2362_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3263-3561-4134-a131-663466386165/-/resizeb/20x/652_SGP2362_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3263-3561-4134-a131-663466386165\-\resizeb\20x\652_SGP2362_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3331-3136-4437-b063-633034613037/-/empty/133.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3331-3136-4437-b063-633034613037\-\empty\133.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3331-3136-4437-b063-633034613037/-/resizeb/20x/133.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3331-3136-4437-b063-633034613037\-\resizeb\20x\133.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3332-3130-4533-b164-613431323737/-/empty/___.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3332-3130-4533-b164-613431323737\-\empty\___.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3332-3739-4231-b565-366535623634/-/empty/546.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3332-3739-4231-b565-366535623634\-\empty\546.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3332-3739-4231-b565-366535623634/-/resizeb/20x/546.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3332-3739-4231-b565-366535623634\-\resizeb\20x\546.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3332-6562-4435-b263-353034616631/-/empty/205.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3332-6562-4435-b263-353034616631\-\empty\205.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3332-6562-4435-b263-353034616631/-/resizeb/20x/205.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3332-6562-4435-b263-353034616631\-\resizeb\20x\205.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3334-3063-4262-b234-613630383234/-/empty/932.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3334-3063-4262-b234-613630383234\-\empty\932.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3334-3063-4262-b234-613630383234/-/resizeb/20x/932.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3334-3063-4262-b234-613630383234\-\resizeb\20x\932.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3338-6431-4339-b463-326434633763/-/empty/801.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3338-6431-4339-b463-326434633763\-\empty\801.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3338-6431-4339-b463-326434633763/-/resizeb/20x/801.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3338-6431-4339-b463-326434633763\-\resizeb\20x\801.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3339-3837-4465-a365-643161633066/-/empty/138.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3339-3837-4465-a365-643161633066\-\empty\138.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3339-3837-4465-a365-643161633066/-/resizeb/20x/138.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3339-3837-4465-a365-643161633066\-\resizeb\20x\138.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3361-3337-4161-a462-333366323434/-/empty/548.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3361-3337-4161-a462-333366323434\-\empty\548.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3361-3337-4161-a462-333366323434/-/resizeb/20x/548.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3361-3337-4161-a462-333366323434\-\resizeb\20x\548.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3361-6530-4732-b037-303266633466/-/empty/161.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3361-6530-4732-b037-303266633466\-\empty\161.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3361-6530-4732-b037-303266633466/-/resizeb/20x/161.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3361-6530-4732-b037-303266633466\-\resizeb\20x\161.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3361-6539-4730-b261-656335623135/-/empty/130.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3361-6539-4730-b261-656335623135\-\empty\130.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3361-6539-4730-b261-656335623135/-/resizeb/20x/130.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3361-6539-4730-b261-656335623135\-\resizeb\20x\130.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3366-3934-4930-b638-646366653839/-/empty/842_SGP3549_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3366-3934-4930-b638-646366653839\-\empty\842_SGP3549_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3366-3934-4930-b638-646366653839/-/resizeb/20x/842_SGP3549_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3366-3934-4930-b638-646366653839\-\resizeb\20x\842_SGP3549_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3431-3431-4134-b136-303263646336/-/empty/900_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3431-3431-4134-b136-303263646336\-\empty\900_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3431-3431-4134-b136-303263646336/-/resizeb/20x/900_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3431-3431-4134-b136-303263646336\-\resizeb\20x\900_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3434-3964-4834-a638-653061653231/-/empty/210.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3434-3964-4834-a638-653061653231\-\empty\210.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3434-3964-4834-a638-653061653231/-/resizeb/20x/210.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3434-3964-4834-a638-653061653231\-\resizeb\20x\210.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3434-6530-4632-b466-646339633262/-/empty/549_SGP8553.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3434-6530-4632-b466-646339633262\-\empty\549_SGP8553.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3434-6530-4632-b466-646339633262/-/resizeb/20x/549_SGP8553.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3434-6530-4632-b466-646339633262\-\resizeb\20x\549_SGP8553.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3434-6635-4131-a233-313639363762/-/empty/309.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3434-6635-4131-a233-313639363762\-\empty\309.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3434-6635-4131-a233-313639363762/-/resizeb/20x/309.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3434-6635-4131-a233-313639363762\-\resizeb\20x\309.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3435-3566-4336-a265-343362623066/320.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3435-3566-4336-a265-343362623066\320.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3461-3361-4564-b036-306130326534/Montserrat-Medium.woff
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3461-3361-4564-b036-306130326534\Montserrat-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3463-3130-4961-b733-363761376433/-/empty/207.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3463-3130-4961-b733-363761376433\-\empty\207.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3463-3130-4961-b733-363761376433/-/resizeb/20x/207.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3463-3130-4961-b733-363761376433\-\resizeb\20x\207.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3463-6431-4936-b530-646437613930/-/empty/320.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3463-6431-4936-b530-646437613930\-\empty\320.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3463-6431-4936-b530-646437613930/-/resizeb/20x/320.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3463-6431-4936-b530-646437613930\-\resizeb\20x\320.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3463-6539-4132-a463-313330643261/-/empty/206.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3463-6539-4132-a463-313330643261\-\empty\206.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3463-6539-4132-a463-313330643261/-/resizeb/20x/206.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3463-6539-4132-a463-313330643261\-\resizeb\20x\206.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3531-3031-4263-a638-383462306464/-/empty/553_SGP8567.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3531-3031-4263-a638-383462306464\-\empty\553_SGP8567.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3531-3031-4263-a638-383462306464/-/resizeb/20x/553_SGP8567.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3531-3031-4263-a638-383462306464\-\resizeb\20x\553_SGP8567.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3536-3266-4032-a332-623339656262/-/empty/658_678_SGP2377.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3536-3266-4032-a332-623339656262\-\empty\658_678_SGP2377.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3536-3266-4032-a332-623339656262/-/resizeb/20x/658_678_SGP2377.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3536-3266-4032-a332-623339656262\-\resizeb\20x\658_678_SGP2377.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3536-6565-4564-b363-313434363862/-/empty/550_SGP8561.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3536-6565-4564-b363-313434363862\-\empty\550_SGP8561.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3536-6565-4564-b363-313434363862/-/resizeb/20x/550_SGP8561.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3536-6565-4564-b363-313434363862\-\resizeb\20x\550_SGP8561.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3538-3339-4961-b931-336631663363/-/empty/135.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3538-3339-4961-b931-336631663363\-\empty\135.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3538-3339-4961-b931-336631663363/-/resizeb/20x/135.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3538-3339-4961-b931-336631663363\-\resizeb\20x\135.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3539-6133-4330-b232-626133323562/-/empty/603.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3539-6133-4330-b232-626133323562\-\empty\603.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3539-6133-4330-b232-626133323562/-/resizeb/20x/603.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3539-6133-4330-b232-626133323562\-\resizeb\20x\603.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3561-3432-4466-b531-623130313861/-/empty/165.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3561-3432-4466-b531-623130313861\-\empty\165.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3561-3432-4466-b531-623130313861/-/resizeb/20x/165.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3561-3432-4466-b531-623130313861\-\resizeb\20x\165.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3563-6537-4664-b463-633064643466/-/empty/132.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3563-6537-4664-b463-633064643466\-\empty\132.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3563-6537-4664-b463-633064643466/-/resizeb/20x/132.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3563-6537-4664-b463-633064643466\-\resizeb\20x\132.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3564-3236-4430-a135-303466656133/-/empty/920.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3564-3236-4430-a135-303466656133\-\empty\920.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3564-3236-4430-a135-303466656133/-/resizeb/20x/920.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3564-3236-4430-a135-303466656133\-\resizeb\20x\920.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3566-3362-4735-b866-303939616337/-/empty/soft_sport.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3566-3362-4735-b866-303939616337\-\empty\soft_sport.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3630-6163-4236-a361-656433663038/-/empty/302_SGP6005.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3630-6163-4236-a361-656433663038\-\empty\302_SGP6005.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3630-6163-4236-a361-656433663038/-/resizeb/20x/302_SGP6005.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3630-6163-4236-a361-656433663038\-\resizeb\20x\302_SGP6005.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3631-6165-4765-b931-316333663762/-/empty/886.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3631-6165-4765-b931-316333663762\-\empty\886.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3631-6165-4765-b931-316333663762/-/resizeb/20x/886.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3631-6165-4765-b931-316333663762\-\resizeb\20x\886.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3633-3165-4638-b163-323634383366/-/empty/551_SGP3373.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3633-3165-4638-b163-323634383366\-\empty\551_SGP3373.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3633-3165-4638-b163-323634383366/-/resizeb/20x/551_SGP3373.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3633-3165-4638-b163-323634383366\-\resizeb\20x\551_SGP3373.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3633-3336-4334-b232-316264316563/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3633-3336-4334-b232-316264316563\-\empty\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3633-6166-4764-a137-393738393466/Montserrat-SemiBold.woff
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3633-6166-4764-a137-393738393466\Montserrat-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3635-3231-4430-b634-613563656665/-/empty/912.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3635-3231-4430-b634-613563656665\-\empty\912.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3635-3231-4430-b634-613563656665/-/resizeb/20x/912.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3635-3231-4430-b634-613563656665\-\resizeb\20x\912.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3636-3736-4666-b938-393165343537/-/empty/photo.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3636-3736-4666-b938-393165343537\-\empty\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3639-6165-4165-b064-306533373730/-/empty/137.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3639-6165-4165-b064-306533373730\-\empty\137.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3639-6165-4165-b064-306533373730/-/resizeb/20x/137.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3639-6165-4165-b064-306533373730\-\resizeb\20x\137.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3665-6239-4230-a433-333631366662/-/empty/963.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3665-6239-4230-a433-333631366662\-\empty\963.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3665-6239-4230-a433-333631366662/-/resizeb/20x/963.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3665-6239-4230-a433-333631366662\-\resizeb\20x\963.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3734-3039-4134-b931-613134636439/Montserrat-Regular.woff
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3734-3039-4134-b931-613134636439\Montserrat-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3734-3536-4635-b038-643565323337/-/empty/724.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3734-3536-4635-b038-643565323337\-\empty\724.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3734-3536-4635-b038-643565323337/-/resizeb/20x/724.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3734-3536-4635-b038-643565323337\-\resizeb\20x\724.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3737-3735-4763-b834-633036353837/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3737-3735-4763-b834-633036353837\-\empty\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3737-6136-4830-b163-323531643536/-/empty/804.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3737-6136-4830-b163-323531643536\-\empty\804.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3737-6136-4830-b163-323531643536/-/resizeb/20x/804.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3737-6136-4830-b163-323531643536\-\resizeb\20x\804.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3739-6438-4463-b961-396232363938/__2.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3739-6438-4463-b961-396232363938\__2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3763-3663-4038-b462-353039613834/-/empty/601.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3763-3663-4038-b462-353039613834\-\empty\601.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3763-3663-4038-b462-353039613834/-/resizeb/20x/601.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3763-3663-4038-b462-353039613834\-\resizeb\20x\601.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3861-3465-4930-a235-666664346435/_.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3861-3465-4930-a235-666664346435\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3861-3835-4262-b165-623737646135/-/empty/501_SGP8595.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3861-3835-4262-b165-623737646135\-\empty\501_SGP8595.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3861-3835-4262-b165-623737646135/-/resizeb/20x/501_SGP8595.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3861-3835-4262-b165-623737646135\-\resizeb\20x\501_SGP8595.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3862-3661-4166-a531-336139393935/-/empty/312_SGP5740.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3862-3661-4166-a531-336139393935\-\empty\312_SGP5740.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3862-3661-4166-a531-336139393935/-/resizeb/20x/312_SGP5740.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3862-3661-4166-a531-336139393935\-\resizeb\20x\312_SGP5740.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3862-3837-4031-b462-633637653162/-/empty/545.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3862-3837-4031-b462-633637653162\-\empty\545.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3862-3837-4031-b462-633637653162/-/resizeb/20x/545.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3862-3837-4031-b462-633637653162\-\resizeb\20x\545.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3932-3864-4631-a636-316562633830/-/empty/204.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3932-3864-4631-a636-316562633830\-\empty\204.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3932-3864-4631-a636-316562633830/-/resizeb/20x/204.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3932-3864-4631-a636-316562633830\-\resizeb\20x\204.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3933-3033-4532-a664-663065663966/-/empty/879_SGP5051.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3933-3033-4532-a664-663065663966\-\empty\879_SGP5051.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3933-3033-4532-a664-663065663966/-/resizeb/20x/879_SGP5051.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3933-3033-4532-a664-663065663966\-\resizeb\20x\879_SGP5051.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3935-3162-4930-b733-353334323338/-/empty/602.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3935-3162-4930-b733-353334323338\-\empty\602.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3935-3162-4930-b733-353334323338/-/resizeb/20x/602.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3935-3162-4930-b733-353334323338\-\resizeb\20x\602.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3936-3263-4333-b337-623565643766/-/empty/822.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3936-3263-4333-b337-623565643766\-\empty\822.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3936-3263-4333-b337-623565643766/-/resizeb/20x/822.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3936-3263-4333-b337-623565643766\-\resizeb\20x\822.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3939-3536-4563-a531-633132646638/-/empty/802.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3939-3536-4563-a531-633132646638\-\empty\802.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3939-3536-4563-a531-633132646638/-/resizeb/20x/802.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3939-3536-4563-a531-633132646638\-\resizeb\20x\802.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3963-3338-4539-a535-326366373238/-/empty/885.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3963-3338-4539-a535-326366373238\-\empty\885.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3963-3338-4539-a535-326366373238/-/resizeb/20x/885.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3963-3338-4539-a535-326366373238\-\resizeb\20x\885.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3966-6165-4563-b130-306162333536/photo.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild3966-6165-4563-b130-306162333536\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6135-6163-4063-b534-386436613362/-/empty/304_SGP5791_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6135-6163-4063-b534-386436613362\-\empty\304_SGP5791_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6135-6163-4063-b534-386436613362/-/resizeb/20x/304_SGP5791_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6135-6163-4063-b534-386436613362\-\resizeb\20x\304_SGP5791_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6135-6439-4335-b530-326339646462/-/empty/112.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6135-6439-4335-b530-326339646462\-\empty\112.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6135-6439-4335-b530-326339646462/-/resizeb/20x/112.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6135-6439-4335-b530-326339646462\-\resizeb\20x\112.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6138-3065-4332-a336-313531363530/-/empty/903.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6138-3065-4332-a336-313531363530\-\empty\903.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6138-3065-4332-a336-313531363530/-/resizeb/20x/903.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6138-3065-4332-a336-313531363530\-\resizeb\20x\903.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6163-3961-4234-a139-343030666139/-/empty/823.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6163-3961-4234-a139-343030666139\-\empty\823.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6163-3961-4234-a139-343030666139/-/resizeb/20x/823.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6163-3961-4234-a139-343030666139\-\resizeb\20x\823.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6164-3236-4332-a538-663835343463/-/empty/145.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6164-3236-4332-a538-663835343463\-\empty\145.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6164-3236-4332-a538-663835343463/-/resizeb/20x/145.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6164-3236-4332-a538-663835343463\-\resizeb\20x\145.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6164-3434-4465-b331-356564353539/-/empty/833.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6164-3434-4465-b331-356564353539\-\empty\833.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6164-3434-4465-b331-356564353539/-/resizeb/20x/833.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6164-3434-4465-b331-356564353539\-\resizeb\20x\833.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6165-3339-4337-a563-636332633536/-/empty/653_SGP2347_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6165-3339-4337-a563-636332633536\-\empty\653_SGP2347_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6165-3339-4337-a563-636332633536/-/resizeb/20x/653_SGP2347_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6165-3339-4337-a563-636332633536\-\resizeb\20x\653_SGP2347_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6230-6637-4565-b065-653134663936/-/empty/131.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6230-6637-4565-b065-653134663936\-\empty\131.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6230-6637-4565-b065-653134663936/-/resizeb/20x/131.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6230-6637-4565-b065-653134663936\-\resizeb\20x\131.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6231-3432-4138-b462-363838323463/-/empty/656_SGP2438_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6231-3432-4138-b462-363838323463\-\empty\656_SGP2438_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6231-3432-4138-b462-363838323463/-/resizeb/20x/656_SGP2438_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6231-3432-4138-b462-363838323463\-\resizeb\20x\656_SGP2438_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6234-6338-4433-b461-326639363731/-/empty/887.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6234-6338-4433-b461-326639363731\-\empty\887.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6234-6338-4433-b461-326639363731/-/resizeb/20x/887.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6234-6338-4433-b461-326639363731\-\resizeb\20x\887.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6235-3864-4431-a566-643362643637/-/empty/905.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6235-3864-4431-a566-643362643637\-\empty\905.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6235-3864-4431-a566-643362643637/-/resizeb/20x/905.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6235-3864-4431-a566-643362643637\-\resizeb\20x\905.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6237-3438-4162-b436-303861306533/-/empty/901.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6237-3438-4162-b436-303861306533\-\empty\901.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6237-3438-4162-b436-303861306533/-/resizeb/20x/901.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6237-3438-4162-b436-303861306533\-\resizeb\20x\901.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6237-6162-4139-a261-303839616165/favicon.ico
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6237-6162-4139-a261-303839616165\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild6238-3934-4166-b761-616132396663/-/empty/510_SGP6279_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6238-3934-4166-b761-616132396663\-\empty\510_SGP6279_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6238-3934-4166-b761-616132396663/-/resizeb/20x/510_SGP6279_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6238-3934-4166-b761-616132396663\-\resizeb\20x\510_SGP6279_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6261-3961-4561-a162-383566356238/Montserrat-Light.woff
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6261-3961-4561-a162-383566356238\Montserrat-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild6265-3761-4939-a338-343264303062/-/empty/331_332_333_334_335_.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6265-3761-4939-a338-343264303062\-\empty\331_332_333_334_335_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6265-3761-4939-a338-343264303062/-/resizeb/20x/331_332_333_334_335_.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6265-3761-4939-a338-343264303062\-\resizeb\20x\331_332_333_334_335_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6331-3539-4132-b966-396265376130/-/empty/_.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6331-3539-4132-b966-396265376130\-\empty\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6333-3535-4230-a465-333866383663/-/empty/931.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6333-3535-4230-a465-333866383663\-\empty\931.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6333-3535-4230-a465-333866383663/-/resizeb/20x/931.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6333-3535-4230-a465-333866383663\-\resizeb\20x\931.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6333-6637-4135-a563-613939336234/-/empty/834.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6333-6637-4135-a563-613939336234\-\empty\834.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6333-6637-4135-a563-613939336234/-/resizeb/20x/834.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6333-6637-4135-a563-613939336234\-\resizeb\20x\834.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6333-6666-4339-a337-613333633630/-/empty/902.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6333-6666-4339-a337-613333633630\-\empty\902.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6333-6666-4339-a337-613333633630/-/resizeb/20x/902.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6333-6666-4339-a337-613333633630\-\resizeb\20x\902.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6334-3933-4366-b164-323131653936/-/empty/803.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6334-3933-4366-b164-323131653936\-\empty\803.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6334-3933-4366-b164-323131653936/-/resizeb/20x/803.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6334-3933-4366-b164-323131653936\-\resizeb\20x\803.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6338-3761-4534-a630-396435633861/-/empty/882.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6338-3761-4534-a630-396435633861\-\empty\882.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6338-3761-4534-a630-396435633861/-/resizeb/20x/882.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6338-3761-4534-a630-396435633861\-\resizeb\20x\882.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6363-3163-4632-a637-353866383465/-/empty/651_SGP2343_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6363-3163-4632-a637-353866383465\-\empty\651_SGP2343_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6363-3163-4632-a637-353866383465/-/resizeb/20x/651_SGP2343_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6363-3163-4632-a637-353866383465\-\resizeb\20x\651_SGP2343_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6363-6236-4538-b462-393464333561/-/empty/542.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6363-6236-4538-b462-393464333561\-\empty\542.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6363-6236-4538-b462-393464333561/-/resizeb/20x/542.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6363-6236-4538-b462-393464333561\-\resizeb\20x\542.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6363-6664-4331-b464-663135313931/-/empty/913.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6363-6664-4331-b464-663135313931\-\empty\913.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6363-6664-4331-b464-663135313931/-/resizeb/20x/913.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6363-6664-4331-b464-663135313931\-\resizeb\20x\913.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6364-3839-4135-a537-666336653865/-/empty/933.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6364-3839-4135-a537-666336653865\-\empty\933.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6364-3839-4135-a537-666336653865/-/resizeb/20x/933.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6364-3839-4135-a537-666336653865\-\resizeb\20x\933.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6366-3636-4664-b533-653136326533/-/empty/__.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6366-3636-4664-b533-653136326533\-\empty\__.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6366-6233-4535-a138-643135343333/photo.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6366-6233-4535-a138-643135343333\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6366-6634-4562-b839-323536303034/-/empty/825.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6366-6634-4562-b839-323536303034\-\empty\825.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6366-6634-4562-b839-323536303034/-/resizeb/20x/825.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6366-6634-4562-b839-323536303034\-\resizeb\20x\825.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6434-3433-4465-a666-386564336638/-/empty/162.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6434-3433-4465-a666-386564336638\-\empty\162.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6434-3433-4465-a666-386564336638/-/resizeb/20x/162.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6434-3433-4465-a666-386564336638\-\resizeb\20x\162.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6435-6536-4264-b365-353130653831/-/empty/827.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6435-6536-4264-b365-353130653831\-\empty\827.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6435-6536-4264-b365-353130653831/-/resizeb/20x/827.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6435-6536-4264-b365-353130653831\-\resizeb\20x\827.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6436-3330-4637-b130-393036646637/-/empty/909.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6436-3330-4637-b130-393036646637\-\empty\909.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6436-3330-4637-b130-393036646637/-/resizeb/20x/909.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6436-3330-4637-b130-393036646637\-\resizeb\20x\909.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6461-3337-4733-b736-333634636137/-/empty/-__.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6461-3337-4733-b736-333634636137\-\empty\-__.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6461-3361-4263-a135-323964356363/-/empty/907.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6461-3361-4263-a135-323964356363\-\empty\907.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6461-3361-4263-a135-323964356363/-/resizeb/20x/907.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6461-3361-4263-a135-323964356363\-\resizeb\20x\907.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6530-3964-4835-a163-323835343734/-/empty/_____.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6530-3964-4835-a163-323835343734\-\empty\_____.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6536-6338-4233-a331-653730653438/-/empty/313_SGP5854_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6536-6338-4233-a331-653730653438\-\empty\313_SGP5854_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6536-6338-4233-a331-653730653438/-/resizeb/20x/313_SGP5854_1.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6536-6338-4233-a331-653730653438\-\resizeb\20x\313_SGP5854_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6562-3662-4464-b631-363935353730/Montserrat-Bold.woff
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6562-3662-4464-b631-363935353730\Montserrat-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild6631-6164-4237-a566-353736666661/-/empty/824.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6631-6164-4237-a566-353736666661\-\empty\824.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6631-6164-4237-a566-353736666661/-/resizeb/20x/824.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6631-6164-4237-a566-353736666661\-\resizeb\20x\824.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6632-6231-4061-b465-313534336437/-/empty/604.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6632-6231-4061-b465-313534336437\-\empty\604.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6632-6231-4061-b465-313534336437/-/resizeb/20x/604.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6632-6231-4061-b465-313534336437\-\resizeb\20x\604.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6636-6637-4665-a635-346261623362/-/empty/320_SGP3988.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6636-6637-4665-a635-346261623362\-\empty\320_SGP3988.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6636-6637-4665-a635-346261623362/-/resizeb/20x/320_SGP3988.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6636-6637-4665-a635-346261623362\-\resizeb\20x\320_SGP3988.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6639-3463-4536-b135-303038656537/-/empty/134.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6639-3463-4536-b135-303038656537\-\empty\134.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6639-3463-4536-b135-303038656537/-/resizeb/20x/134.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6639-3463-4536-b135-303038656537\-\resizeb\20x\134.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6663-6333-4635-a562-366265356262/-/empty/____.jpg
+File Name: C:\Downloaded Web Sites\variteks.kz\tild6663-6333-4635-a562-366265356262\-\empty\____.jpg
+Content Type: image/jpeg
+
+Uri: https://variteks.kz/
+File Name: C:\Downloaded Web Sites\variteks.kz\index.htm
+Content Type: text/html
+
+Uri: https://variteks.kz/abcorsets
+File Name: C:\Downloaded Web Sites\variteks.kz\abcorsets.html
+Content Type: text/html
+
+Uri: https://variteks.kz/contacts
+File Name: C:\Downloaded Web Sites\variteks.kz\contacts.html
+Content Type: text/html
+
+Uri: https://variteks.kz/elasticbandages
+File Name: C:\Downloaded Web Sites\variteks.kz\elasticbandages.html
+Content Type: text/html
+
+Uri: https://variteks.kz/foot
+File Name: C:\Downloaded Web Sites\variteks.kz\foot.html
+Content Type: text/html
+
+Uri: https://variteks.kz/handbandages
+File Name: C:\Downloaded Web Sites\variteks.kz\handbandages.html
+Content Type: text/html
+
+Uri: https://variteks.kz/kneecap
+File Name: C:\Downloaded Web Sites\variteks.kz\kneecap.html
+Content Type: text/html
+
+Uri: https://variteks.kz/ollars
+File Name: C:\Downloaded Web Sites\variteks.kz\ollars.html
+Content Type: text/html
+
+Uri: https://variteks.kz/pillows
+File Name: C:\Downloaded Web Sites\variteks.kz\pillows.html
+Content Type: text/html
+
+Uri: https://variteks.kz/shoulderjoint
+File Name: C:\Downloaded Web Sites\variteks.kz\shoulderjoint.html
+Content Type: text/html
+
+Uri: https://variteks.kz/siliconeproducts
+File Name: C:\Downloaded Web Sites\variteks.kz\siliconeproducts.html
+Content Type: text/html
+
+Uri: https://variteks.kz/softsport
+File Name: C:\Downloaded Web Sites\variteks.kz\softsport.html
+Content Type: text/html
+
+Uri: https://variteks.kz/stockings
+File Name: C:\Downloaded Web Sites\variteks.kz\stockings.html
+Content Type: text/html
+
+Uri: https://variteks.kz/thoracolumbar
+File Name: C:\Downloaded Web Sites\variteks.kz\thoracolumbar.html
+Content Type: text/html
+
+Uri: https://variteks.kz/tilda-blocks-page23671573.min.css?t=1666955211
+File Name: C:\Downloaded Web Sites\variteks.kz\tilda-blocks-page23671573.min.css
+Content Type: text/css
+
+Uri: https://variteks.kz/tilda-blocks-page23671573.min.js?t=1666955211
+File Name: C:\Downloaded Web Sites\variteks.kz\tilda-blocks-page23671573.min.js
+Content Type: application/javascript
+
+Uri: https://variteks.kz/wrist
+File Name: C:\Downloaded Web Sites\variteks.kz\wrist.html
+Content Type: text/html
+
